@@ -1,2 +1,2 @@
-# PhoSim-NIRCam
+# Assessing the perfomance of the JWST Image Simulator - PhoSim-NIRCam
 PhoSim-NIRCam is a full end-to-end JWST/NIRCam image simulator built on the framework of the LSST image simulator PhoSim. It contains a comprehensive physical model of the JWST telescope + NIRCam, and simulates photons propagating through the whole system using a Monte Carlo approach.  PhoSim-NIRCam is easy to use, allowing the user to start creating realistic NIRCam images with minimal preparation. It also provides a variety of advanced features that allow direct control of any element in the system.
